@@ -11,7 +11,7 @@
 ## Ссылки
 + Информация о курсе:
   + Подробно расписана в этом документе в разделе [**информация о курсе**](https://github.com/Costello1329/java-hse-2021/blob/master/readme.md#Информация-о-курсе)
-  + Была сообщена в [предзаписанном видео-презентации]().
+  + Была сообщена в [предзаписанном видео-презентации](https://www.youtube.com/watch?v=h4UmSp39zAI).
   + Также, можно прочесть сам ПУД: [сжатая версия](https://www.hse.ru/ba/bi/courses/476629175.html), [полная версия](https://dp.hse.ru/#/summary?implementationId=4509553493)
 + [Чат в telegram](https://t.me/joinchat/jwRgBxnpQuk5ZDli)
 + [Программа курса](https://github.com/Costello1329/java-hse-2021/blob/master/roadmap.md): список тем и разбиение их по блокам программы. **Внимание: не стоит путать блок программы с блоком контеста.**
